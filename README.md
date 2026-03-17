@@ -1,7 +1,5 @@
 ## Geometry-driven OOD Detectors Are Class-Incremental Learners (CVPR26)
-<p align="center">
-<img src="Moal/figs/method.jpg" width="100%">
-</p>
+
 
 
 ## Abstract
@@ -72,7 +70,7 @@ We thank the following repos providing helpful components/functions in our work.
 If you found our work useful for your research, please cite our work:
 
 @inproceedings{moal,
- author = {Gao, Zijian and Jia, Wangwang and Zhang, Xingxing and Zhou, Dulan and Xu, Kele and Feng, Dawei and Dou, Yong and Mao, Xinjun and Wang, Huaimin},
+ author = {Wangwang Jia and Zijian Gao},
  booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
  title = {Knowledge Memorization and Rumination for Pre-trained Model-based Class-Incremental Learning},
  year = {2025}
